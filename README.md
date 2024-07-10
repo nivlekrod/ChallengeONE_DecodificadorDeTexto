@@ -2,7 +2,7 @@
 
 ## Decodificador de Texto
 
-☁️ Deploy: <a href="">Decodificador de Texto</a>
+☁️ Deploy: <a href="https://decodificador-de-texto-azure-gamma.vercel.app/">Decodificador de Texto</a>
 
 ### 🚀 Sobre o Desafio
 
@@ -21,3 +21,8 @@ As "chaves" de criptografia utilizadas são:
 - Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original;
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos;
 - Extra! (Um rodapé com os dados da pessoa que desenvolveu o site).
+
+
+### Preview do Projeto
+
+![Preview](./assets/preview.png)
